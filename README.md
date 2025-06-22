@@ -12,7 +12,7 @@ This is a sleek, interactive website that replaces the default mouse cursor with
 Perfect for portfolios, landing pages, and modern UI experiments.
 
 ## Live Demo
-[Click here to view the live demo💚](https://projectsai.netlify.app/)
+[Click here to view the live demo 💚](https://projectsai.netlify.app/)
 
 ## Installation
 Clone the repo and open `index.html` in your browser:
