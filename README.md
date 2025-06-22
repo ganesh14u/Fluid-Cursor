@@ -17,6 +17,6 @@ Perfect for portfolios, landing pages, and modern UI experiments.
 ## Installation
 Clone the repo and open `index.html` in your browser:
 ```bash
-git clone https://github.com/ganesh14u/fluid-cursor.git
-cd fluid-cursor
+git clone https://github.com/ganesh14u/Fluid-Cursor.git
+cd Fluid-Cursor
 open index.html
